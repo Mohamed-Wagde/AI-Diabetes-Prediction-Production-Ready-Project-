@@ -1,6 +1,6 @@
-# 🧠 AI Diabetes Prediction System
+# AI Diabetes Prediction System
 
-## 📌 Overview
+##  Overview
 
 This project is a production-ready machine learning system that predicts
 the likelihood of diabetes based on patient health data. It includes a
@@ -9,7 +9,7 @@ and a simple frontend interface.
 
 ------------------------------------------------------------------------
 
-## 🏗️ Project Structure
+##  Project Structure
 
     AI-Diabetes-Prediction/
     │
@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ------------------------------------------------------------------------
 
-## ▶️ Run the Project
+##  Run the Project
 
 ### 1. Start API Server
 
@@ -67,7 +67,7 @@ Open:
 
 ------------------------------------------------------------------------
 
-## 🔌 API Usage
+##  API Usage
 
 ### Endpoint:
 
@@ -93,7 +93,7 @@ Open:
 
 ------------------------------------------------------------------------
 
-## 🧪 Model Details
+##  Model Details
 
 -   Algorithm: Random Forest
 -   Type: Binary Classification
@@ -101,7 +101,7 @@ Open:
 
 ------------------------------------------------------------------------
 
-## 🚀 Deployment
+## Deployment
 
 ### Backend:
 
@@ -114,7 +114,7 @@ Open:
 
 ------------------------------------------------------------------------
 
-## 📊 Future Improvements
+##  Future Improvements
 
 -   Add model evaluation metrics (F1-score, ROC)
 -   Improve feature engineering
@@ -123,6 +123,6 @@ Open:
 
 ------------------------------------------------------------------------
 
-## 📄 License
+##  License
 
 Mohamed Wagde
