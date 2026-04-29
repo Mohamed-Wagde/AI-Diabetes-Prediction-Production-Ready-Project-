@@ -37,7 +37,7 @@ and a simple frontend interface.
 
 ------------------------------------------------------------------------
 
-## ⚙️ Installation
+##  Installation
 
 ``` bash
 pip install -r requirements.txt
